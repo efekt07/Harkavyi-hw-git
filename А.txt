@@ -1,4 +1,4 @@
 Test file
-Test file
+Line from develop branch
 Test file
 Test file
